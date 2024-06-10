@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>129066847051-j9pb7uqsvftkp3l54ro83fm7p2ri8l5j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.129066847051-j9pb7uqsvftkp3l54ro83fm7p2ri8l5j</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>129066847051-02h0ofudkh5dchip7d00mctadr2h486t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAocQSHSrS3Eglc9d6xI7THAbb4GYbJeRc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>129066847051</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.macrobits.rodallantas</string>
+	<key>PROJECT_ID</key>
+	<string>roda-llantas</string>
+	<key>STORAGE_BUCKET</key>
+	<string>roda-llantas.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:129066847051:ios:157590dd168a2ef943b6ce</string>
+</dict>
+</plist>

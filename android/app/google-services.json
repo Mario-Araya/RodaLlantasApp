@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "129066847051",
+    "project_id": "roda-llantas",
+    "storage_bucket": "roda-llantas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129066847051:android:d38883b61c74096543b6ce",
+        "android_client_info": {
+          "package_name": "com.macrobits.rodallantas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129066847051-02h0ofudkh5dchip7d00mctadr2h486t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.macrobits.rodallantas",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "129066847051-s8rnuu9ebcbva019r1cfbp65dov38i5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACpxv_RihgZ8HW1rTBiNihYQBO0X2ftEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129066847051-oaknniuni9j1sd8mb4cvrel3u13uhen8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129066847051-j9pb7uqsvftkp3l54ro83fm7p2ri8l5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.macrobits.rodallantas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
